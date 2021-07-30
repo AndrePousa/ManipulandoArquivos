@@ -1,0 +1,13 @@
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.exe
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.deps.json
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.runtimeconfig.json
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.dll
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\bin\Debug\netcoreapp3.1\ManipulacaodearquivosGL.pdb
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.AssemblyInfo.cs
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.dll
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.pdb
+C:\Users\Andre\source\repos\ManipulacaodearquivosGL\ManipulacaodearquivosGL\obj\Debug\netcoreapp3.1\ManipulacaodearquivosGL.genruntimeconfig.cache
